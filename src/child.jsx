@@ -7,6 +7,7 @@ function Child(props) {
         <div>
             <h1>{props.data().name}</h1>
             <h1>o'zgardi2</h1>
+            <h1>o'zgardi3</h1>
         </div>
     )
 }
